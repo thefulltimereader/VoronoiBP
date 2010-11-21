@@ -77,12 +77,13 @@ public class GameState {
   /**
    * board has 0 for empty spot, 1 for spot owned by this NN, -1 for spot owned
    */
-  public int[][] getBoard() {
-    int[][] board = new int[BOARDSIZE][BOARDSIZE];
+  public int[][] getBoard(int player) {
+    int[][] board = new int[BOARDSIZE+2][BOARDSIZE+2];
     List<Point2D.Double> points = vo.getPoints();
     for (int i = 0, end=points.size(); i < end; i++) {
       Point2D.Double pnt = points.get(i);
-      board[(int) pnt.x][(int) pnt.y] = i%NUMPLAYERS;
+     int  val = i%NUMPLAYERS == player? 1: -1;
+      board[(int) pnt.x][(int) pnt.y] = val;
     }
     return board;
   }
