@@ -1,0 +1,1818 @@
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+FINE: ************starting generation 0**************
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6520396282053722 (x, y): 0 1.6520396282053722 total output was0.03510506156339491 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+FINE: ************starting generation 1**************
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6528219216909048 (x, y): 1 1.6528219216909048 total output was0.035887355049021866 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+FINE: ************starting generation 2**************
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6535637641534946 (x, y): 2 1.6535637641534946 total output was0.03662919751154059 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:46 PM voronoi.network.NN train
+FINE: ************starting generation 3**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.654264654154848 (x, y): 3 1.654264654154848 total output was0.037330087513022706 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 4**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6549240951617252 (x, y): 4 1.6549240951617252 total output was0.03798952851977154 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 5**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.655541595529658 (x, y): 5 1.655541595529658 total output was0.03860702888764871 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 6**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6561166684889534 (x, y): 6 1.6561166684889534 total output was0.039182101847034065 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 7**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6566488321292336 (x, y): 7 1.6566488321292336 total output was0.039714265487305375 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 8**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6571376093828287 (x, y): 8 1.6571376093828287 total output was0.04020304274096877 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 9**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.657582528009248 (x, y): 9 1.657582528009248 total output was0.04064796136735374 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 10**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6579831205778583 (x, y): 10 1.6579831205778583 total output was0.04104855393601462 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 11**************
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6583389244516311 (x, y): 11 1.6583389244516311 total output was0.04140435780973035 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:47 PM voronoi.network.NN train
+FINE: ************starting generation 12**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6586494817692654 (x, y): 12 1.6586494817692654 total output was0.04171491512728896 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 13**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6589143394279593 (x, y): 13 1.6589143394279593 total output was0.04197977278587586 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 14**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.659133049065361 (x, y): 14 1.659133049065361 total output was0.04219848242330829 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 15**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6593051670417571 (x, y): 15 1.6593051670417571 total output was0.042370600399902134 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 16**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.659430254422185 (x, y): 16 1.659430254422185 total output was0.04249568778025124 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 17**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.659507876956582 (x, y): 17 1.659507876956582 total output was0.04257331031472422 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 18**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.659537605062673 (x, y): 18 1.659537605062673 total output was0.042603038420797434 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 19**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6595190138062021 (x, y): 19 1.6595190138062021 total output was0.042584447164257744 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 20**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.65945168288214 (x, y): 20 1.65945168288214 total output was0.04251711624024533 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 21**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6593351965961007 (x, y): 21 1.6593351965961007 total output was0.0424006299542105 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 22**************
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6591691438447151 (x, y): 22 1.6591691438447151 total output was0.042234577202745725 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:48 PM voronoi.network.NN train
+FINE: ************starting generation 23**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6589531180962922 (x, y): 23 1.6589531180962922 total output was0.04201855145437709 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 24**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6586867173721829 (x, y): 24 1.6586867173721829 total output was0.04175215073031219 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 25**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.658369544227063 (x, y): 25 1.658369544227063 total output was0.04143497758512579 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 26**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.658001205729322 (x, y): 26 1.658001205729322 total output was0.0410666390874424 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 27**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6575813134426496 (x, y): 27 1.6575813134426496 total output was0.040646746800674614 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 28**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6571094834056508 (x, y): 28 1.6571094834056508 total output was0.04017491676374301 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 29**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6565853361138643 (x, y): 29 1.6565853361138643 total output was0.03965076947190092 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 30**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6560084964993633 (x, y): 30 1.6560084964993633 total output was0.039073929857517814 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 31**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6553785939130974 (x, y): 31 1.6553785939130974 total output was0.038444027271147756 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 32**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.654695262104466 (x, y): 32 1.654695262104466 total output was0.037760695462489315 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 33**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.65395813920358 (x, y): 33 1.65395813920358 total output was0.03702357256164762 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 34**************
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6531668677023967 (x, y): 34 1.6531668677023967 total output was0.03623230106045189 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:49 PM voronoi.network.NN train
+FINE: ************starting generation 35**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6523210944358244 (x, y): 35 1.6523210944358244 total output was0.035386527793992706 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 36**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6514204705642197 (x, y): 36 1.6514204705642197 total output was0.03448590392227311 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 37**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.650464651554071 (x, y): 37 1.650464651554071 total output was0.03353008491217172 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 38**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6494532971614864 (x, y): 38 1.6494532971614864 total output was0.03251873051949597 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 39**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6483860714133394 (x, y): 39 1.6483860714133394 total output was0.0314515047714682 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 40**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6472626425910546 (x, y): 40 1.6472626425910546 total output was0.030328075949198258 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 41**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6460826832125937 (x, y): 41 1.6460826832125937 total output was0.029148116570722284 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 42**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6448458700160042 (x, y): 42 1.6448458700160042 total output was0.02791130337413855 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 43**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6435518839429424 (x, y): 43 1.6435518839429424 total output was0.026617317301105312 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 44**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6422004101227046 (x, y): 44 1.6422004101227046 total output was0.025265843480760452 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 45**************
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.640791137855754 (x, y): 45 1.640791137855754 total output was0.023856571213844678 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:50 PM voronoi.network.NN train
+FINE: ************starting generation 46**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6393237605990516 (x, y): 46 1.6393237605990516 total output was0.022389193957224624 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 47**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.637797975950843 (x, y): 47 1.637797975950843 total output was0.020863409308927418 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 48**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6362134856353452 (x, y): 48 1.6362134856353452 total output was0.019278918993383427 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 49**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6345699954891313 (x, y): 49 1.6345699954891313 total output was0.01763542884721602 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 50**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.632867215447257 (x, y): 50 1.632867215447257 total output was0.015932648805402037 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 51**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6311048595298383 (x, y): 51 1.6311048595298383 total output was0.014170292887878775 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 52**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6292826458285594 (x, y): 52 1.6292826458285594 total output was0.012348079186659172 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 53**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6274002964952412 (x, y): 53 1.6274002964952412 total output was0.010465729853361846 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 54**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6254575377291849 (x, y): 54 1.6254575377291849 total output was0.00852297108727127 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 55**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6234540997658082 (x, y): 55 1.6234540997658082 total output was0.006519533123926544 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 56**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6213897168660871 (x, y): 56 1.6213897168660871 total output was0.004455150224178299 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 57**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.619264127305722 (x, y): 57 1.619264127305722 total output was0.002329560663807368 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 58**************
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6170770733656767 (x, y): 58 1.6170770733656767 total output was1.4250672376326518E-4 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:51 PM voronoi.network.NN train
+FINE: ************starting generation 59**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6148283013227478 (x, y): 59 1.6148283013227478 total output was-0.0021062653191263256 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 60**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.612517561441061 (x, y): 60 1.612517561441061 total output was-0.004417005200845009 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 61**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6101446079637751 (x, y): 61 1.6101446079637751 total output was-0.006789958678179334 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 62**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6077091991056585 (x, y): 62 1.6077091991056585 total output was-0.009225367536249047 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 63**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6052110970466873 (x, y): 63 1.6052110970466873 total output was-0.011723469595241804 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 64**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6026500679252131 (x, y): 64 1.6026500679252131 total output was-0.01428449871670337 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 65**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.6000258818330593 (x, y): 65 1.6000258818330593 total output was-0.016908684808947017 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 66**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.597338312809839 (x, y): 66 1.597338312809839 total output was-0.019596253832012772 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 67**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.594587138840171 (x, y): 67 1.594587138840171 total output was-0.022347427801779323 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 68**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5917721418484443 (x, y): 68 1.5917721418484443 total output was-0.02516242479343264 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 69**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.588893107697667 (x, y): 69 1.588893107697667 total output was-0.02804145894428842 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 70**************
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5859498261861333 (x, y): 70 1.5859498261861333 total output was-0.030984740455778977 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:52 PM voronoi.network.NN train
+FINE: ************starting generation 71**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5829420910471579 (x, y): 71 1.5829420910471579 total output was-0.03399247559477789 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 72**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5798696999477508 (x, y): 72 1.5798696999477508 total output was-0.03706486669415098 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 73**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5767324544893155 (x, y): 73 1.5767324544893155 total output was-0.04020211215257716 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 74**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.57353016020843 (x, y): 74 1.57353016020843 total output was-0.043404406433501956 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 75**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5702626265785047 (x, y): 75 1.5702626265785047 total output was-0.046671940063445154 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 76**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5669296670126616 (x, y): 76 1.5669296670126616 total output was-0.050004899629348384 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 77**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.563531098866621 (x, y): 77 1.563531098866621 total output was-0.053403467775267915 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 78**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5600667434437259 (x, y): 78 1.5600667434437259 total output was-0.05686782319811663 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 79**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5565364259992909 (x, y): 79 1.5565364259992909 total output was-0.06039814064263825 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 80**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5529399757463775 (x, y): 80 1.5529399757463775 total output was-0.06399459089550998 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 81**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.549277225863343 (x, y): 81 1.549277225863343 total output was-0.06765734077857782 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 82**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5455480135005817 (x, y): 82 1.5455480135005817 total output was-0.0713865531412675 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 83**************
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5417521797899993 (x, y): 83 1.5417521797899993 total output was-0.07518238685202673 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:53 PM voronoi.network.NN train
+FINE: ************starting generation 84**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5378895698529718 (x, y): 84 1.5378895698529718 total output was-0.07904499678895963 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 85**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.533960032812364 (x, y): 85 1.533960032812364 total output was-0.08297453382953653 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 86**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5299634218026539 (x, y): 86 1.5299634218026539 total output was-0.0869711448392626 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 87**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5258995939822504 (x, y): 87 1.5258995939822504 total output was-0.09103497265968467 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 88**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5217684105467555 (x, y): 88 1.5217684105467555 total output was-0.09516615609519076 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 89**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5175697367428698 (x, y): 89 1.5175697367428698 total output was-0.09936482989901299 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 90**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5133034418837232 (x, y): 90 1.5133034418837232 total output was-0.10363112475821663 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 91**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5089693993641287 (x, y): 91 1.5089693993641287 total output was-0.10796516727774547 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 92**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5045674866784737 (x, y): 92 1.5045674866784737 total output was-0.11236707996348433 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 93**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5000975854376186 (x, y): 93 1.5000975854376186 total output was-0.11683698120431596 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 94**************
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4955595813887284 (x, y): 94 1.4955595813887284 total output was-0.12137498525322697 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:54 PM voronoi.network.NN train
+FINE: ************starting generation 95**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.490953364434629 (x, y): 95 1.490953364434629 total output was-0.12598120220728823 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 96**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4862788286550979 (x, y): 96 1.4862788286550979 total output was-0.13065573798679753 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 97**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4815358723286198 (x, y): 97 1.4815358723286198 total output was-0.13539869431327342 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 98**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.476724397955562 (x, y): 98 1.476724397955562 total output was-0.14021016868638592 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 99**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4718443122819898 (x, y): 99 1.4718443122819898 total output was-0.14509025435996015 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 100**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4668955263250354 (x, y): 100 1.4668955263250354 total output was-0.1500390403168609 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 101**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.461877955399125 (x, y): 101 1.461877955399125 total output was-0.1550566112428083 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 102**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4567915191428482 (x, y): 102 1.4567915191428482 total output was-0.16014304749913055 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 103**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4516361415474046 (x, y): 103 1.4516361415474046 total output was-0.16529842509449122 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 104**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4464117509864156 (x, y): 104 1.4464117509864156 total output was-0.17052281565543115 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 105**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4411182802460119 (x, y): 105 1.4411182802460119 total output was-0.1758162863959297 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 106**************
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4357556665561868 (x, y): 106 1.4357556665561868 total output was-0.18117890008578627 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:55 PM voronoi.network.NN train
+FINE: ************starting generation 107**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4303238516239851 (x, y): 107 1.4303238516239851 total output was-0.18661071501795812 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 108**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4248227816671761 (x, y): 108 1.4248227816671761 total output was-0.19211178497473583 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 109**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4192524074491772 (x, y): 109 1.4192524074491772 total output was-0.1976821591927816 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 110**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.413612684314681 (x, y): 110 1.413612684314681 total output was-0.20332188232714543 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 111**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.407903572227812 (x, y): 111 1.407903572227812 total output was-0.20903099441406767 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 112**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.4021250358093476 (x, y): 112 1.4021250358093476 total output was-0.21480953083258508 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 113**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.396277044376703 (x, y): 113 1.396277044376703 total output was-0.22065752226518523 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 114**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3903595719848043 (x, y): 114 1.3903595719848043 total output was-0.22657499465710493 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 115**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3843725974672318 (x, y): 115 1.3843725974672318 total output was-0.23256196917462083 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 116**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3783161044798449 (x, y): 116 1.3783161044798449 total output was-0.23861846216209595 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 117**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3721900815439796 (x, y): 117 1.3721900815439796 total output was-0.2447444850979336 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 118**************
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3659945220926613 (x, y): 118 1.3659945220926613 total output was-0.2509400445492899 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:56 PM voronoi.network.NN train
+FINE: ************starting generation 119**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3597294245161813 (x, y): 119 1.3597294245161813 total output was-0.25720514212567985 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 120**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3533947922104634 (x, y): 120 1.3533947922104634 total output was-0.263539774431438 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 121**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3469906336251558 (x, y): 121 1.3469906336251558 total output was-0.2699439330168294 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 122**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3405169623136692 (x, y): 122 1.3405169623136692 total output was-0.27641760432822854 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 123**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3339737969849708 (x, y): 123 1.3339737969849708 total output was-0.28296076965696254 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 124**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3273611615549266 (x, y): 124 1.3273611615549266 total output was-0.28957340508695895 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 125**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.32067908520066 (x, y): 125 1.32067908520066 total output was-0.29625548144131697 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 126**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3139276024142983 (x, y): 126 1.3139276024142983 total output was-0.30300696422762463 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 127**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.307106753059882 (x, y): 127 1.307106753059882 total output was-0.3098278135820782 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 128**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.3002165824295293 (x, y): 128 1.3002165824295293 total output was-0.31671798421244657 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 129**************
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2932571413020832 (x, y): 129 1.2932571413020832 total output was-0.3236774253398515 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:57 PM voronoi.network.NN train
+FINE: ************starting generation 130**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.286228486002563 (x, y): 130 1.286228486002563 total output was-0.3307060806393484 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 131**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2791306784627157 (x, y): 131 1.2791306784627157 total output was-0.337803888179327 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 132**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.271963786282118 (x, y): 132 1.271963786282118 total output was-0.34497078035975526 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 133**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2647278827928221 (x, y): 133 1.2647278827928221 total output was-0.35220668384915704 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 134**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2574230471214094 (x, y): 134 1.2574230471214094 total output was-0.35951151952057114 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 135**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.250049364255799 (x, y): 135 1.250049364255799 total output was-0.3668852023861684 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 136**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2426069251112546 (x, y): 136 1.2426069251112546 total output was-0.37432764153078324 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 137**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.23509582659773 (x, y): 137 1.23509582659773 total output was-0.38183874004428225 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 138**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2275161716891558 (x, y): 138 1.2275161716891558 total output was-0.38941839495277497 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 139**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2198680694932613 (x, y): 139 1.2198680694932613 total output was-0.39706649714858866 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 140**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2121516353227282 (x, y): 140 1.2121516353227282 total output was-0.40478293131922427 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 141**************
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.2043669907667949 (x, y): 141 1.2043669907667949 total output was-0.4125675758750672 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:58 PM voronoi.network.NN train
+FINE: ************starting generation 142**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1965142637659787 (x, y): 142 1.1965142637659787 total output was-0.420420302875963 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 143**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1885935886850527 (x, y): 143 1.1885935886850527 total output was-0.42834097795678105 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 144**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1806051063902687 (x, y): 144 1.1806051063902687 total output was-0.43632946025167757 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 145**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1725489643245586 (x, y): 145 1.1725489643245586 total output was-0.44438560231741453 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 146**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1644253165864444 (x, y): 146 1.1644253165864444 total output was-0.45250925005545395 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 147**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1562343240089479 (x, y): 147 1.1562343240089479 total output was-0.4607002426330755 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 148**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1479761542386875 (x, y): 148 1.1479761542386875 total output was-0.4689584124032934 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 149**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1396509818180696 (x, y): 149 1.1396509818180696 total output was-0.4772835848238206 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 150**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.13125898826697 (x, y): 150 1.13125898826697 total output was-0.4856755783749123 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 151**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1228003621658331 (x, y): 151 1.1228003621658331 total output was-0.4941342044761662 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 152**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.1142752992395788 (x, y): 152 1.1142752992395788 total output was-0.5026592674023337 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 153**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.105684002443799 (x, y): 153 1.105684002443799 total output was-0.5112505641981082 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 154**************
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0970266820499628 (x, y): 154 1.0970266820499628 total output was-0.5199078845919283 total expected output: -1.6169345666419401
+Nov 22, 2010 5:19:59 PM voronoi.network.NN train
+FINE: ************starting generation 155**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0883035557332517 (x, y): 155 1.0883035557332517 total output was-0.52863101090876 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 156**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0795148486599389 (x, y): 156 1.0795148486599389 total output was-0.5374197179819488 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 157**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0706607935776742 (x, y): 157 1.0706607935776742 total output was-0.5462737730642035 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 158**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.06174163090444 (x, y): 158 1.06174163090444 total output was-0.5551929357375271 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 159**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0527576088196264 (x, y): 159 1.0527576088196264 total output was-0.564176957822321 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 160**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0437089833562383 (x, y): 160 1.0437089833562383 total output was-0.5732255832856132 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 161**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.034596018493422 (x, y): 161 1.034596018493422 total output was-0.5823385481484524 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 162**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.0254189862496044 (x, y): 162 1.0254189862496044 total output was-0.5915155803924176 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 163**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.016178166776589 (x, y): 163 1.016178166776589 total output was-0.6007563998652976 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 164**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.006873848455713 (x, y): 164 1.006873848455713 total output was-0.6100607181861485 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 165**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9975063279925903 (x, y): 165 0.9975063279925903 total output was-0.6194282386493681 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 166**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9880759105136487 (x, y): 166 0.9880759105136487 total output was-0.6288586561282682 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 167**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9785829096641647 (x, y): 167 0.9785829096641647 total output was-0.6383516569777643 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 168**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.969027647705389 (x, y): 168 0.969027647705389 total output was-0.6479069189365277 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 169**************
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9594104556133976 (x, y): 169 0.9594104556133976 total output was-0.6575241110284352 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:00 PM voronoi.network.NN train
+FINE: ************starting generation 170**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9497316731785395 (x, y): 170 0.9497316731785395 total output was-0.6672028934634304 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 171**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.939991649104101 (x, y): 171 0.939991649104101 total output was-0.6769429175378624 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 172**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9301907411077021 (x, y): 172 0.9301907411077021 total output was-0.6867438255342084 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 173**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9203293160216414 (x, y): 173 0.9203293160216414 total output was-0.6966052506203203 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 174**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9104077498934533 (x, y): 174 0.9104077498934533 total output was-0.7065268167483205 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 175**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.9004264280890106 (x, y): 175 0.9004264280890106 total output was-0.7165081385528905 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 176**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8903857453927182 (x, y): 176 0.8903857453927182 total output was-0.7265488212492908 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 177**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8802861061108188 (x, y): 177 0.8802861061108188 total output was-0.7366484605311047 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 178**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8701279241744178 (x, y): 178 0.8701279241744178 total output was-0.7468066424674982 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 179**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8599116232415591 (x, y): 179 0.8599116232415591 total output was-0.7570229434003534 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 180**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8496376368006628 (x, y): 180 0.8496376368006628 total output was-0.7672969298412349 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 181**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8393064082739221 (x, y): 181 0.8393064082739221 total output was-0.7776281583680466 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 182**************
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8289183911202539 (x, y): 182 0.8289183911202539 total output was-0.7880161755216754 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:01 PM voronoi.network.NN train
+FINE: ************starting generation 183**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8184740489392415 (x, y): 183 0.8184740489392415 total output was-0.7984605177025791 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 184**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.8079738555746303 (x, y): 184 0.8079738555746303 total output was-0.8089607110673067 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 185**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7974182952168789 (x, y): 185 0.7974182952168789 total output was-0.8195162714250716 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 186**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7868078625074106 (x, y): 186 0.7868078625074106 total output was-0.8301267041344501 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 187**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.776143062641774 (x, y): 187 0.776143062641774 total output was-0.8407915040001726 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 188**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7654244114717269 (x, y): 188 0.7654244114717269 total output was-0.8515101551701512 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 189**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7546524356089925 (x, y): 189 0.7546524356089925 total output was-0.8622821310327997 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 190**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7438276725273882 (x, y): 190 0.7438276725273882 total output was-0.873106894114563 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 191**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.732950670664005 (x, y): 191 0.732950670664005 total output was-0.8839838959779467 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 192**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7220219895219298 (x, y): 192 0.7220219895219298 total output was-0.8949125771199823 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 193**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.711042199770814 (x, y): 193 0.711042199770814 total output was-0.9058923668710815 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 194**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.7000118833472884 (x, y): 194 0.7000118833472884 total output was-0.9169226832945871 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 195**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6889316335550688 (x, y): 195 0.6889316335550688 total output was-0.9280029330869176 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 196**************
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6778020551635112 (x, y): 196 0.6778020551635112 total output was-0.9391325114784235 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:02 PM voronoi.network.NN train
+FINE: ************starting generation 197**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6666237645068469 (x, y): 197 0.6666237645068469 total output was-0.9503108021350264 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 198**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6553973895812283 (x, y): 198 0.6553973895812283 total output was-0.9615371770606778 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 199**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6441235701411046 (x, y): 199 0.6441235701411046 total output was-0.9728109965007736 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 200**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6328029577952362 (x, y): 200 0.6328029577952362 total output was-0.9841316088466046 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 201**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.621436216101223 (x, y): 201 0.621436216101223 total output was-0.995498350540735 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 202**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.6100240206581419 (x, y): 202 0.6100240206581419 total output was-1.0069105459837266 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 203**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5985670591999079 (x, y): 203 0.5985670591999079 total output was-1.0183675074419147 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 204**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5870660316853644 (x, y): 204 0.5870660316853644 total output was-1.0298685349566075 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 205**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5755216503871688 (x, y): 205 0.5755216503871688 total output was-1.0414129162546548 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 206**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5639346399815163 (x, y): 206 0.5639346399815163 total output was-1.05299992666043 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 207**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5523057376326013 (x, y): 207 0.5523057376326013 total output was-1.0646288290094434 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 208**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5406356930784171 (x, y): 208 0.5406356930784171 total output was-1.0762988735635626 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 209**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5289252687139225 (x, y): 209 0.5289252687139225 total output was-1.088009297928002 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 210**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5171752396718637 (x, y): 210 0.5171752396718637 total output was-1.0997593269700625 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 211**************
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.5053863939020583 (x, y): 211 0.5053863939020583 total output was-1.1115481727398353 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:03 PM voronoi.network.NN train
+FINE: ************starting generation 212**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.49355953224900206 (x, y): 212 0.49355953224900206 total output was-1.1233750343929232 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 213**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.48169546852677125 (x, y): 213 0.48169546852677125 total output was-1.1352390981152118 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 214**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.4697950295920469 (x, y): 214 0.4697950295920469 total output was-1.1471395370498398 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 215**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.4578590554154691 (x, y): 215 0.4578590554154691 total output was-1.1590755112264772 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 216**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.4458883991490259 (x, y): 216 0.4458883991490259 total output was-1.1710461674929666 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 217**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.43388392719244695 (x, y): 217 0.43388392719244695 total output was-1.1830506394494267 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 218**************
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.4218465192569273 (x, y): 218 0.4218465192569273 total output was-1.1950880473849805 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:04 PM voronoi.network.NN train
+FINE: ************starting generation 219**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.4097770684247498 (x, y): 219 0.4097770684247498 total output was-1.207157498217106 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 220**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3976764812081008 (x, y): 220 0.3976764812081008 total output was-1.2192580854337725 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 221**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.385545677603374 (x, y): 221 0.385545677603374 total output was-1.231388889038507 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 222**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3733855911434831 (x, y): 222 0.3733855911434831 total output was-1.2435489754983895 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 223**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3611971689469213 (x, y): 223 0.3611971689469213 total output was-1.2557373976951143 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 224**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3489813717625408 (x, y): 224 0.3489813717625408 total output was-1.2679531948793263 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 225**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3367391740137116 (x, y): 225 0.3367391740137116 total output was-1.2801953926281608 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 226**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3244715638358061 (x, y): 226 0.3244715638358061 total output was-1.2924630028062207 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 227**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.3121795431118086 (x, y): 227 0.3121795431118086 total output was-1.3047550235300975 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 228**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.29986412750548375 (x, y): 228 0.29986412750548375 total output was-1.3170704391364152 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 229**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.28752634648829983 (x, y): 229 0.28752634648829983 total output was-1.3294082201536683 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 230**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.2751672433639801 (x, y): 230 0.2751672433639801 total output was-1.3417673232778724 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 231**************
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.26278787528977626 (x, y): 231 0.26278787528977626 total output was-1.3541466913521305 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:05 PM voronoi.network.NN train
+FINE: ************starting generation 232**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.2503893132917347 (x, y): 232 0.2503893132917347 total output was-1.366545253350302 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 233**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.23797264227726445 (x, y): 233 0.23797264227726445 total output was-1.378961924364692 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 234**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.2255389610436757 (x, y): 234 0.2255389610436757 total output was-1.3913956055981964 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 235**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.21308938228133903 (x, y): 235 0.21308938228133903 total output was-1.403845184360665 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 236**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.2006250325721967 (x, y): 236 0.2006250325721967 total output was-1.4163095340697778 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 237**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.18814705238532076 (x, y): 237 0.18814705238532076 total output was-1.428787514256583 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 238**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.17565659606634842 (x, y): 238 0.17565659606634842 total output was-1.4412779705756291 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 239**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.16315483182189205 (x, y): 239 0.16315483182189205 total output was-1.4537797348199886 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 240**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.15064294170071582 (x, y): 240 0.15064294170071582 total output was-1.4662916249411475 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 241**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.13812212156798193 (x, y): 241 0.13812212156798193 total output was-1.478812445073913 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 242**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.12559358107541246 (x, y): 242 0.12559358107541246 total output was-1.4913409855664959 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 243**************
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.11305854362609719 (x, y): 243 0.11305854362609719 total output was-1.5038760230157553 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:06 PM voronoi.network.NN train
+FINE: ************starting generation 244**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.10051824633409379 (x, y): 244 0.10051824633409379 total output was-1.5164163203078562 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 245**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.0879739399774899 (x, y): 245 0.0879739399774899 total output was-1.5289606266643165 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 246**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.07542688894826449 (x, y): 246 0.07542688894826449 total output was-1.5415076776936059 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 247**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.0628783711935045 (x, y): 247 0.0628783711935045 total output was-1.554056195448426 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 248**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.050329678153265056 (x, y): 248 0.050329678153265056 total output was-1.5666048884886994 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 249**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.037782114691524815 (x, y): 249 0.037782114691524815 total output was-1.5791524519504203 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 250**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.025236999021500867 (x, y): 250 0.025236999021500867 total output was-1.5916975676204412 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 251**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 0.012695662624570642 (x, y): 251 0.012695662624570642 total output was-1.604238904017332 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+FINE: ************starting generation 252**************
+Nov 22, 2010 5:20:07 PM voronoi.network.NN train
+SEVERE: Error in this generation: 1.5945016360313646E-4 (x, y): 252 1.5945016360313646E-4 total output was-1.6167751164783284 total expected output: -1.6169345666419401
+Nov 22, 2010 5:20:07 PM voronoi.network.NN recordDetails
+FINE: wOne0 4.640210050696325E-4 
+wOne1 0.012393385457470305 
+wOne2 0.0024176358473540715 
+wOne3 0.015361410034225281 
+wOne4 0.006021307806805394 
+wOne5 0.019014908972236615 
+wOne6 0.017486307592694584 
+wOne7 0.013763364355649812 
+wOne8 0.005090953683606471 
+wOne9 8.345011255760371E-4 
+wOne10 0.004469284707515755 
+wOne11 0.018548063119157025 
+wOne12 0.004280888474680553 
+wOne13 0.01784197426153867 
+wOne14 0.014481162497781365 
+wOne15 0.019492747362559973 
+wOne16 0.01734239177407118 
+wOne17 0.010495264325827319 
+wOne18 0.0067690750026523205 
+wOne19 0.00429441267346518 
+wOne20 0.004997398838589415 
+wOne21 0.014234956626557651 
+wOne22 0.005350076153089393 
+wOne23 0.003063406179755151 
+wOne24 -5.506310291848915E-4 
+wOne25 0.018317631153817005 
+wOne26 0.0062134854945790205 
+wOne27 0.009506978967163264 
+wOne28 0.0030471653487160683 
+wOne29 0.012593702645257738 
+wOne30 0.01036135091136321 
+wOne31 0.01636419660858728 
+wOne32 0.0058448006239879115 
+wOne33 0.01638773308773549 
+wOne34 0.001448511374360037 
+wOne35 -6.210437096047047E-4 
+wOne36 0.009420965095793427 
+wOne37 -0.00108946288428828 
+wOne38 0.007754939112952905 
+wOne39 0.004118359205111095 
+wOne40 0.01969575659683988 
+wOne41 0.006172287778060968 
+wOne42 0.019071982086884213 
+wOne43 -0.0021668701951010104 
+wOne44 -0.0010780664300315663 
+wOne45 0.002730765948618064 
+wOne46 0.00882140804581035 
+wOne47 0.01398553811057527 
+wOne48 0.012111869668270882 
+wOne49 0.017977463196358165 
+wOne50 0.008593878698316681 
+wOne51 0.005928949323564786 
+wOne52 0.008408059804785609 
+wOne53 0.01522546381919569 
+wOne54 0.0040816915354625226 
+wOne55 0.0030599693160927462 
+wOne56 0.012153362345439574 
+wOne57 0.003778091533826226 
+wOne58 0.009689832512163089 
+wOne59 0.01292184660572114 
+wOne60 2.2493456864324467E-4 
+wOne61 0.002316769794331931 
+wOne62 -0.004471394798180944 
+wOne63 0.010244335874935685 
+wOne64 0.020638822154849787 
+wOne65 0.005111628330965234 
+wOne66 0.014340031316000777 
+wOne67 0.01302179304272352 
+wOne68 0.0047284361209682605 
+wOne69 0.01730670263599032 
+wOne70 0.01576165033887859 
+wOne71 0.01586963915781757 
+wOne72 0.0113830101791426 
+wOne73 0.013835378634415713 
+wOne74 0.01308755450816638 
+wOne75 -0.001063367516489087 
+wOne76 0.017897211680868157 
+wOne77 0.009266783430180137 
+wOne78 0.011174639150226354 
+wOne79 0.017453487876097865 
+wOne80 0.0010144200834973894 
+wOne81 0.004682322855048598 
+wOne82 0.013421603176055057 
+wOne83 0.010759541851281881 
+wOne84 0.008944597231593649 
+wOne85 0.008120045182502053 
+wOne86 0.016306834767054572 
+wOne87 0.002471057207998564 
+wOne88 0.003463150165409535 
+wOne89 0.012020375491835001 
+wOne90 0.011109843366340154 
+wOne91 0.017049788938096735 
+wOne92 0.018417203266249533 
+wOne93 0.008019489762341158 
+wOne94 0.01669932848919446 
+wOne95 0.007491724956471777 
+wOne96 0.013300837937010764 
+wOne97 0.007161188672188112 
+wOne98 0.016039700774279752 
+wOne99 0.012119417339451197 
+wTwo0.02636154236394148 0.03936097853130748 0.04060581451623255 0.03297651493508929 0.03980600179558451 0.03571426912730776 0.03472341463688222 0.033976472549817095 0.03839326253875991 0.035943225591536336 0.03928924250545309 0.03962112398486889 0.0372045891646771 0.028464790793133427 0.04151135652949843 0.037799922573630226 0.03477211061630225 0.03413550435752092 0.027277266165870236 0.04103363107094185 0.03529685269558743 0.03754961977661957 0.03157609079908662 0.03312382836901557 0.03194146375151044 0.03278570991043651 0.039053667888938125 0.033071474210562224 0.04343516178007571 0.035624019572941396 0.03505537911822565 0.03496127562198963 0.029532242147467677 0.03419760733342377 0.04095695505672969 0.033666141210745 0.03914041652499535 0.02488286996283905 0.038462238220207674 0.032701634646614 0.03342417060244804 0.04446502092071791 0.03650172002404864 0.04132720812638752 0.03153420885774236 0.03962396054022426 0.040663242647739746 0.030250272049602255 0.03942405289067401 0.03231553945833756 0.03457219648533309 0.03703979991930609 0.031181289689975602 0.04110775001916003 0.03880869783731143 0.03992812119347498 0.039313534347331695 0.031251377834909465 0.03791449888317673 0.033204403842856264 0.04465568901726951 0.03317131815138867 0.037634370553513735 0.040262293583865114 0.041831068897142436 0.02754637998914844 0.03741866115812769 0.03324135501488459 0.035017815736768335 0.0395298737968012 0.04459113056485324 0.040856267164930904 0.04051283188110488 0.03214211421834548 0.03735020339025071 0.0336802994874923 0.039824054447571526 0.035244062626822135 0.05394691280994587 0.04156939838920675 0.03889621301913246 0.04192231106808576 0.05116645860923531 0.03569535101755801 0.0381349288911687 0.03713745125168004 0.03228468113317315 0.031140589719690425 0.04312439151143668 0.03516169894273637 0.042979397317497704 0.0397926883695849 0.042509680497644524 0.038841600552923565 0.036105947406197964 0.03831555439911807 0.0345221804851047 0.038450345340727506 0.04292797941764967 0.030381566024937152 0.032543964591583985 0.03510378394912091 0.03577392581066716 0.03051877592711582 0.03929383468018065 0.029838184049783553 0.03322796936905346 0.03804776057885851 0.02327008290747275 0.0411521997901746 0.04219785163770659 0.03822449293603026 0.030614565346373374 0.04114482351373644 0.03733007137253058 0.03779860784572242 0.03309636900417185 0.03213677095656603 0.03897255756209951 0.04124712173472269 0.03578216773475434 0.02697069781067023 0.04142460688380548 0.028829688567143814 0.0278759409866231 0.04186433376333178 0.03855984726389215 0.04227706970252109 0.04238732249431344 0.04115961337423078 0.04091420748004999 0.04222907515390028 0.029793601358754196 0.033526698827677 0.03277333475217902 0.033083201781608014 0.04449914683871127 0.03737499284741829 0.04380122941999108 0.025563738028731738 0.025663626917536896 0.029683208271963538 0.03001766728118036 0.04208944241368305 0.03623185509278166 0.03812621109391196 0.04140655016349732 0.02999643744679669 0.03729319933349489 0.05727564853359574 
+
+Nov 22, 2010 5:20:07 PM voronoi.network.NN plotEachError
+SEVERE: Each output vs expected:
+0.0 1.0
+0.0 -0.4318415637860083
+0.0 0.1191146211571049
+0.0 -0.15146151053013804
+0.0 -0.12596945235834117
+0.0 -0.1630799755799755
+0.0 -0.13890302084746525
+0.0 1.0
+0.0 -0.2962962962962963
+0.0 0.3575102880658436
+0.0 -0.14205547538880872
+0.0 -0.09310699588477372
+0.0 -0.21957671957671962
+0.0 0.018592004703115797
+0.0 1.0
+0.0 -0.2652777777777777
+0.0 -0.05555555555555555
+0.0 -0.2652483833039388
+0.0 -0.0945456292678515
+0.0 -0.2236241125130012
+0.0 -0.207163207163207
+0.0 1.0
+0.0 0.4444444444444444
+0.0 0.5200617283950617
+0.0 -0.11568138651471992
+0.0 0.2614878076834598
+0.0 -0.10532712816742373
+0.0 0.11689509405479848
+0.0 1.0
+0.0 0.09523809523809516
+0.0 0.6049382716049383
+0.0 0.44290123456790126
+0.0 0.4845679012345679
+0.0 0.4243827160493827
+0.0 0.6435185185185185
+0.0 1.0
+0.0 0.0
+0.0 0.6111111111111112
+0.0 0.24074074074074073
+0.0 0.279320987654321
+0.0 0.24639917695473246
+0.0 0.5488683127572015
+0.0 1.0
+0.0 0.0
+0.0 0.3408950617283952
+0.0 0.060030864197531
+0.0 0.07340534979423877
+0.0 -0.10030530169419054
+0.0 -0.05661776495109817
+0.0 1.0
+0.0 0.31111111111111106
+0.0 0.31111111111111117
+0.0 0.07407407407407407
+0.0 0.07407407407407407
+0.0 -0.41358024691358025
+0.0 -0.22222222222222213
+0.0 1.0
+0.0 -0.3333333333333333
+0.0 0.17460317460317465
+0.0 -0.1322751322751323
+0.0 0.20646678424456208
+0.0 -0.009582598471487128
+0.0 0.17029688418577324
+0.0 1.0
+0.0 -0.08888888888888884
+0.0 0.4876543209876543
+0.0 -0.15925925925925932
+0.0 0.10308641975308636
+0.0 0.0773662551440329
+0.0 0.403292181069959
+0.0 1.0
+0.0 -0.2222222222222222
+0.0 0.0
+0.0 -0.4326131687242798
+0.0 0.08454919566030672
+0.0 0.007388701833146224
+0.0 0.26700556765916234
+0.0 1.0
+0.0 0.2222222222222222
+0.0 0.22916666666666666
+0.0 -0.4876543209876543
+0.0 0.3724279835390948
+0.0 -0.45534979423868305
+0.0 -0.04691358024691363
+0.0 1.0
+0.0 0.05555555555555555
+0.0 0.14814814814814814
+0.0 -0.08244170096021947
+0.0 0.09662208504801094
+0.0 -0.08856310013717425
+0.0 -0.0021433470507544973
+0.0 1.0
+0.0 0.3950617283950617
+0.0 0.5200617283950617
+0.0 -0.10030864197530864
+0.0 0.08641975308641975
+0.0 -0.04814814814814813
+0.0 0.165843621399177
+0.0 1.0
+0.0 -0.2222222222222222
+0.0 0.31296296296296294
+0.0 0.2902777777777777
+0.0 0.5433641975308642
+0.0 0.2628086419753087
+0.0 0.32638888888888895
+0.0 1.0
+0.0 0.1111111111111111
+0.0 0.30864197530864196
+0.0 0.30864197530864196
+0.0 0.5150646678424458
+0.0 0.21876837154614942
+0.0 0.4039535567313346
+0.0 1.0
+0.0 0.4444444444444447
+0.0 0.68641975308642
+0.0 0.48888888888888915
+0.0 0.6389623750734862
+0.0 0.2572751322751322
+0.0 0.2737360376249265
+0.0 1.0
+0.0 -0.14814814814814814
+0.0 0.4979423868312757
+0.0 -0.004115226337448676
+0.0 0.10473251028806577
+0.0 0.04248971193415642
+0.0 0.16358024691358017
+0.0 1.0
+0.0 -0.2962962962962964
+0.0 -0.17181069958847742
+0.0 -0.33854751215862333
+0.0 0.03182285821174702
+0.0 -0.15336232697343816
+0.0 -0.1464178825289937
+0.0 1.0
+0.0 -0.691358024691358
+0.0 -0.14783950617283945
+0.0 -0.29874338624338626
+0.0 -0.09298206937095821
+0.0 -0.09298206937095829
+0.0 0.005783362727807138
+0.0 1.0
+0.0 0.0
+0.0 0.25
+0.0 0.08838383838383852
+0.0 0.1591142910587357
+0.0 0.07912457912457926
+0.0 0.3733632622521514
+0.0 1.0
+0.0 -0.37037037037037035
+0.0 0.36015579071134624
+0.0 0.25727513227513227
+0.0 0.33160640799529684
+0.0 0.011236037624926521
+0.0 0.0117871840094062
+0.0 1.0
+0.0 -0.4444444444444444
+0.0 0.27793209876543207
+0.0 -0.10066872427983542
+0.0 0.022788065843621377
+0.0 -0.04526748971193404
+0.0 0.14238683127572013
+0.0 1.0
+0.0 0.09523809523809534
+0.0 0.21351281253242038
+0.0 -0.03626543209876534
+0.0 0.278292181069959
+0.0 0.26440329218107
+0.0 0.5542695473251028
+0.0 1.0
+0.0 0.20987654320987653
+0.0 0.36419753086419754
+0.0 -0.03749999999999993
+0.0 0.24490740740740743
+0.0 0.1255658436213992
+0.0 0.1255658436213992
+0.0 1.0
+0.0 -0.09523809523809534
+0.0 0.28571428571428575
+0.0 -0.010582010582010457
+0.0 0.37135018616500093
+0.0 0.2782064471879288
+0.0 0.3706275720164611
+0.0 1.0
+0.0 0.0
+0.0 0.7916666666666666
+0.0 -0.008533042846768295
+0.0 0.17232510288065847
+0.0 0.08885459533607683
+0.0 0.3148148148148149
+0.0 1.0
+0.0 0.2962962962962964
+0.0 0.29629629629629645
+0.0 -0.01723251028806561
+0.0 0.025720164609053613
+0.0 -0.012474279835390829
+0.0 0.09272119341563792
+0.0 1.0
+0.0 -0.2962962962962963
+0.0 0.20164609053497945
+0.0 -0.11471193415637858
+0.0 0.18189300411522644
+0.0 3.0864197530871217E-4
+0.0 0.03143004115226356
+0.0 1.0
+0.0 -0.08888888888888892
+0.0 0.5046296296296295
+0.0 0.023148148148147796
+0.0 0.35655162738496066
+0.0 0.34266273849607176
+0.0 0.5124158249158248
+0.0 1.0
+0.0 -0.1111111111111111
+0.0 0.13498677248677243
+0.0 -0.1278272842600328
+0.0 0.032451499118165666
+0.0 -0.09786400156770532
+0.0 0.05981775426219862
+0.0 1.0
+0.0 -0.2222222222222222
+0.0 0.29629629629629645
+0.0 -0.5226337448559671
+0.0 0.0390946502057612
+0.0 -0.080246913580247
+0.0 0.07867996201329526
+0.0 1.0
+0.0 -0.16666666666666666
+0.0 -0.09233539094650212
+0.0 -0.4581128747795415
+0.0 -0.2688124632569077
+0.0 -0.4413580246913582
+0.0 -0.3456790123456791
+0.0 1.0
+0.0 0.05555555555555555
+0.0 0.4032921810699589
+0.0 0.05937683715461477
+0.0 0.26757789535567317
+0.0 0.1700185012276516
+0.0 0.33462755472559386
+0.0 1.0
+0.0 0.0
+0.0 0.6866582491582492
+0.0 0.08319304152637508
+0.0 0.27609427609427634
+0.0 0.22979797979797992
+0.0 0.3903619528619529
+0.0 1.0
+0.0 -0.2222222222222222
+0.0 0.3022290809327847
+0.0 -0.2495984044473324
+0.0 0.020463323947729352
+0.0 -0.12783914518807316
+0.0 0.06414609053497942
+0.0 1.0
+0.0 0.2962962962962963
+0.0 0.33517048794826565
+0.0 -0.2510288065843622
+0.0 0.22993827160493827
+0.0 0.06172839506172839
+0.0 0.2695473251028807
+0.0 1.0
+0.0 0.2222222222222222
+0.0 0.47427983539094654
+0.0 0.034465020576131745
+0.0 0.06769547325102881
+0.0 0.062139917695473314
+0.0 0.40164609053497957
+0.0 1.0
+0.0 0.0
+0.0 0.41358024691358025
+0.0 0.2407407407407407
+0.0 0.4816358024691357
+0.0 0.18132716049382708
+0.0 0.18533950617283937
+0.0 1.0
+0.0 -0.20987654320987653
+0.0 -0.2029320987654321
+0.0 -0.43209876543209874
+0.0 0.0
+0.0 -0.24084362139917703
+0.0 0.007668566001899324
+0.0 1.0
+0.0 -0.8024691358024691
+0.0 0.4166666666666667
+0.0 -0.22160493827160488
+0.0 0.2485596707818931
+0.0 0.1585390946502058
+0.0 0.24106407995296888
+0.0 1.0
+0.0 -0.16666666666666666
+0.0 0.3797302737520129
+0.0 -0.020317209628803963
+0.0 0.02487507348618447
+0.0 -0.20506319811875398
+0.0 0.14658155630377845
+0.0 1.0
+0.0 0.5555555555555556
+0.0 0.9012345679012346
+0.0 0.8796296296296297
+0.0 0.8796296296296297
+0.0 0.3578329882677708
+0.0 0.36002886002886003
+0.0 1.0
+0.0 -0.3072530864197531
+0.0 0.3950617283950617
+0.0 0.040476190476190346
+0.0 0.04259259259259245
+0.0 -0.3408950617283952
+0.0 -0.05231481481481487
+0.0 1.0
+0.0 -0.3950617283950617
+0.0 -0.16435185185185186
+0.0 -0.16435185185185186
+0.0 0.38451646090534974
+0.0 0.05272633744855961
+0.0 0.21862139917695458
+0.0 1.0
+0.0 -0.5555555555555556
+0.0 0.2191358024691358
+0.0 -0.2978395061728395
+0.0 0.5679012345679012
+0.0 0.31303778526000736
+0.0 0.49074074074074076
+0.0 1.0
+0.0 -0.625
+0.0 -0.4444444444444444
+0.0 -0.45833333333333326
+0.0 -0.030092592592592504
+0.0 -0.11342592592592593
+0.0 2.2045855379201245E-4
+0.0 1.0
+0.0 0.5555555555555556
+0.0 0.5555555555555556
+0.0 0.5462962962962963
+0.0 0.6712962962962963
+0.0 0.24614197530864199
+0.0 0.3487654320987654
+0.0 1.0
+0.0 0.5673868312757201
+0.0 0.5673868312757201
+0.0 0.005041152263374462
+0.0 0.0307613168724279
+0.0 -0.30712902444928597
+0.0 -0.07716049382716059
+0.0 1.0
+0.0 0.0
+0.0 0.1111111111111111
+0.0 -0.18209876543209877
+0.0 0.04269547325102875
+0.0 -0.31044238683127573
+0.0 -0.08822016460905353
+0.0 -1.0
+0.0 -0.2222222222222222
+0.0 -0.25555555555555554
+0.0 -0.16666666666666666
+0.0 -0.16666666666666666
+0.0 0.06018518518518518
+0.0 -0.2345679012345679
+0.0 -1.0
+0.0 0.1111111111111111
+0.0 -0.5061728395061729
+0.0 -0.4675925925925926
+0.0 -0.566358024691358
+0.0 -0.06018518518518518
+0.0 -0.26080246913580246
+0.0 -1.0
+0.0 0.1111111111111111
+0.0 -0.2222222222222222
+0.0 0.12654320987654322
+0.0 -0.283179012345679
+0.0 0.05324074074074074
+0.0 -0.12268518518518519
+0.0 -1.0
+0.0 0.6527777777777778
+0.0 -0.08055555555555563
+0.0 0.143840579710145
+0.0 -0.22755859724458755
+0.0 -0.030027733047056766
+0.0 -0.133433541766875
+0.0 -1.0
+0.0 -0.16666666666666666
+0.0 -0.6255144032921811
+0.0 -0.4033857089412646
+0.0 -0.4033857089412644
+0.0 -0.04385210125950867
+0.0 -0.044023569023569076
+0.0 -1.0
+0.0 -0.2222222222222222
+0.0 -0.2708754208754209
+0.0 0.0975108225108223
+0.0 -0.0429212762546098
+0.0 0.13454785954785942
+0.0 -0.13778659611992944
+0.0 -1.0
+0.0 0.08888888888888892
+0.0 -0.4067019400352734
+0.0 -0.19003527336860665
+0.0 -0.28858024691358025
+0.0 -0.2757201646090535
+0.0 -0.2979423868312756
+0.0 -1.0
+0.0 0.691358024691358
+0.0 0.17263374485596708
+0.0 0.17263374485596708
+0.0 -0.3088477366255144
+0.0 0.11193415637860087
+0.0 0.005452674897119295
+0.0 -1.0
+0.0 0.1111111111111111
+0.0 -0.02494855967078201
+0.0 0.12628600823045263
+0.0 0.1069958847736626
+0.0 0.3531972143083255
+0.0 0.06322807850585621
+0.0 -1.0
+0.0 0.2222222222222222
+0.0 -0.33333333333333337
+0.0 -0.13580246913580246
+0.0 -0.18209876543209877
+0.0 -0.018518518518518517
+0.0 -0.08076131687242805
+0.0 -1.0
+0.0 -0.4444444444444444
+0.0 -0.4444444444444444
+0.0 -0.3194444444444444
+0.0 -0.5030864197530864
+0.0 -0.05298353909465018
+0.0 -0.16820987654320987
+0.0 -1.0
+0.0 -0.14814814814814814
+0.0 -0.49495661120057255
+0.0 -0.19248747539810349
+0.0 -0.23106772231168368
+0.0 -0.0747721928277484
+0.0 -0.12448559670781904
+0.0 -1.0
+0.0 0.5555555555555556
+0.0 -0.1111111111111111
+0.0 -0.03182441700960226
+0.0 -0.19247256515775027
+0.0 -0.19170096021947866
+0.0 -0.2842935528120714
+0.0 -1.0
+0.0 0.35555555555555546
+0.0 0.03703703703703686
+0.0 0.2888888888888888
+0.0 -0.0407407407407407
+0.0 0.0703703703703704
+0.0 -0.08340192043895744
+0.0 -1.0
+0.0 0.2222222222222222
+0.0 -0.2222222222222222
+0.0 0.3881172839506173
+0.0 0.00415671047391503
+0.0 0.21304869684499342
+0.0 -0.006430041152263492
+0.0 -1.0
+0.0 0.17777777777777784
+0.0 0.046707818930041126
+0.0 0.07962962962962984
+0.0 0.07962962962962976
+0.0 0.11889200124494252
+0.0 -0.19165196942974705
+0.0 -1.0
+0.0 -0.2962962962962963
+0.0 -0.7325102880658435
+0.0 -0.6146384479717812
+0.0 -0.642416225749559
+0.0 -0.48500881834215165
+0.0 -0.49691358024691357
+0.0 -1.0
+0.0 -0.03703703703703695
+0.0 -0.2710905349794239
+0.0 -0.08456790123456792
+0.0 -0.6225749559082895
+0.0 -0.41358024691358025
+0.0 -0.46929012345679016
+0.0 -1.0
+0.0 0.6087962962962963
+0.0 0.2716049382716049
+0.0 0.30948372615039277
+0.0 0.04997060552616103
+0.0 0.04997060552616103
+0.0 -0.0013453624564736396
+0.0 -1.0
+0.0 -0.3333333333333333
+0.0 -0.3341049382716049
+0.0 0.07253086419753087
+0.0 -0.2811728395061729
+0.0 -0.12345679012345678
+0.0 -0.125
+0.0 -1.0
+0.0 -0.1333333333333334
+0.0 -0.5793283362727808
+0.0 -0.3873575498575499
+0.0 -0.40715020576131694
+0.0 -0.01504629629629656
+0.0 -0.12753928170594853
+0.0 -1.0
+0.0 0.1333333333333333
+0.0 0.1277777777777777
+0.0 0.5493827160493827
+0.0 0.4074074074074074
+0.0 0.4074074074074074
+0.0 -0.036282578875171397
+0.0 -1.0
+0.0 0.0
+0.0 -0.4166666666666667
+0.0 -0.08333333333333333
+0.0 -0.3333333333333333
+0.0 0.06790123456790123
+0.0 -0.07098765432098765
+0.0 -1.0
+0.0 0.1111111111111111
+0.0 -0.691358024691358
+0.0 -0.24561766735679774
+0.0 -0.3947530864197531
+0.0 0.16800411522633746
+0.0 0.056893004115226346
+0.0 -1.0
+0.0 0.5555555555555556
+0.0 0.12345679012345678
+0.0 0.24691358024691362
+0.0 -0.626543209876543
+0.0 -0.16129482657260436
+0.0 -0.2145355673133451
+0.0 -1.0
+0.0 0.3333333333333333
+0.0 0.2463991769547326
+0.0 0.2463991769547326
+0.0 -0.33179012345679015
+0.0 -0.0232416760194538
+0.0 -0.0232416760194538
+0.0 -1.0
+0.0 0.1333333333333333
+0.0 -0.38549382716049374
+0.0 0.018518518518518517
+0.0 -0.09799382716049383
+0.0 0.008641975308641836
+0.0 -0.06851851851851866
+0.0 -1.0
+0.0 -0.2222222222222222
+0.0 -0.5422453703703703
+0.0 -0.13611111111111127
+0.0 -0.40077160493827185
+0.0 -0.19290123456790131
+0.0 -0.20321268237934914
+0.0 -1.0
+0.0 -0.1333333333333333
+0.0 -0.4709689487467266
+0.0 -0.2587214739992517
+0.0 -0.3878600823045268
+0.0 -0.07613168724279824
+0.0 -0.12654320987654322
+0.0 -1.0
+0.0 0.4444444444444444
+0.0 -0.2474582425562817
+0.0 0.06795670943274439
+0.0 -0.23731714908185475
+0.0 -0.06103848946986186
+0.0 -0.20918663761801
+0.0 -1.0
+0.0 -0.3072530864197531
+0.0 -0.691358024691358
+0.0 -0.20104751215862324
+0.0 -0.206466784244562
+0.0 0.04353321575543801
+0.0 -0.1390912585357032
+0.0 -1.0
+0.0 0.2222222222222222
+0.0 -0.7199074074074074
+0.0 0.21870713305898484
+0.0 -0.12697187928669418
+0.0 0.06472908093278475
+0.0 -0.08836045641601196
+0.0 -1.0
+0.0 -0.2666666666666669
+0.0 -0.3757188865884518
+0.0 0.051644316730523616
+0.0 0.007662835249042134
+0.0 0.007662835249042134
+0.0 -0.40395622895622896
+0.0 -1.0
+0.0 -0.5185185185185184
+0.0 -0.6563786008230451
+0.0 -0.3924897119341563
+0.0 -0.3950617283950617
+0.0 0.07784636488340185
+0.0 0.04260973936899859
+0.0 -1.0
+0.0 0.3555555555555556
+0.0 -0.6635802469135804
+0.0 -0.6496913580246915
+0.0 -0.6496913580246915
+0.0 -0.4073991549481746
+0.0 -0.43520968058005094
+0.0 -1.0
+0.0 -0.18518518518518529
+0.0 -0.31018518518518523
+0.0 0.028572764683875772
+0.0 -0.06465559474818729
+0.0 0.06095679012345688
+0.0 -0.07666947250280594
+0.0 -1.0
+0.0 0.07407407407407407
+0.0 -0.3040123456790123
+0.0 0.049125514403292325
+0.0 -0.034207818930041003
+0.0 0.10648148148148148
+0.0 -0.017103909465020724
+0.0 -1.0
+0.0 0.0
+0.0 -0.6689814814814815
+0.0 0.03441358024691351
+0.0 -0.29130658436213996
+0.0 -0.06158877131099355
+0.0 -0.11313932980599652
+0.0 -1.0
+0.0 0.5
+0.0 0.1087962962962963
+0.0 0.16435185185185186
+0.0 -0.043209876543209874
+0.0 -0.021604938271604937
+0.0 -0.02716049382716053
+0.0 -1.0
+0.0 0.20987654320987653
+0.0 -0.15123456790123457
+0.0 0.09876543209876543
+0.0 0.09876543209876543
+0.0 0.2962962962962963
+0.0 0.17386831275720177
+0.0 -1.0
+0.0 -0.09523809523809516
+0.0 -0.47619047619047616
+0.0 0.006944444444444444
+0.0 -0.12088477366255142
+0.0 -0.025977366255144005
+0.0 -0.24853027630805408
+0.0 -1.0
+0.0 0.05555555555555555
+0.0 -0.16820987654320987
+0.0 0.029320987654320986
+0.0 -0.18690476190476196
+0.0 -0.10444725028058371
+0.0 -0.1250233819678264
+0.0 -1.0
+0.0 0.33101851851851855
+0.0 -0.22453703703703703
+0.0 0.14094650205761314
+0.0 -0.23736037624926504
+0.0 0.018569958847736667
+0.0 -0.16203703703703703
+0.0 -1.0
+0.0 -0.07407407407407425
+0.0 -0.3708847736625515
+0.0 -0.06481481481481481
+0.0 -0.32098765432098764
+0.0 -0.24382716049382716
+0.0 -0.24637091303757963
+0.0 -1.0
+0.0 -0.3333333333333333
+0.0 -0.5573045267489711
+0.0 0.08467078189300413
+0.0 -0.031069958847736615
+0.0 0.04814814814814813
+0.0 -0.08328189300411527
+0.0 -1.0
+0.0 0.22222222222222213
+0.0 0.17777777777777784
+0.0 0.31499118165784834
+0.0 0.1419753086419753
+0.0 0.14891975308641975
+0.0 -0.1396604938271606
+0.0 -1.0
+0.0 0.14814814814814814
+0.0 -0.2458847736625513
+0.0 -0.24206349206349204
+0.0 -0.3635802469135801
+0.0 -0.06882716049382702
+0.0 -0.17993827160493814
+0.0 -1.0
+0.0 0.4444444444444444
+0.0 -0.16666666666666666
+0.0 0.1550925925925926
+0.0 -0.1863425925925926
+0.0 0.0019290123456790122
+0.0 -0.07932098765432104
+0.0 -1.0
+0.0 -0.5555555555555556
+0.0 -0.6790123456790124
+0.0 -0.558641975308642
+0.0 -0.558641975308642
+0.0 0.010582010582010632
+0.0 -0.36419753086419754
+0.0 -1.0
+0.0 0.8024691358024691
+0.0 0.06790123456790123
+0.0 0.47119341563786016
+0.0 0.21913580246913597
+0.0 0.2796296296296297
+0.0 0.13096707818930042
+

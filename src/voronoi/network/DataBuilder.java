@@ -14,7 +14,7 @@ import voronoi.util.Point;
 public class DataBuilder {
   List<Pair<Double, Integer[]>> data;
   public static void main(String[] args){
-    String fName = args.length==0? "dataBack1":args[0];
+    String fName = args.length==0? "dataBack10000":args[0];
     DataBuilder data = new DataBuilder(8, 2, fName);
     data.build();
     data.writeToFile();
@@ -22,7 +22,7 @@ public class DataBuilder {
   private GameState gameState;
   final int NUMOFPLAYERS;
   final int BOARDSIZE;
-  private final int SCALE = 70;
+  private final int SCALE = 1;
   private String fName;
   
   public DataBuilder(int BOARDSIZE, int NUMOFPLAYERS, String fName){
@@ -76,14 +76,14 @@ public class DataBuilder {
    //do 50 7 turns by player 1 first, then 50 7thurns by starting second
    int playerId = 0;
    Random r = new Random();
-   for(int i = 0; i< 100; i++){
+   for(int i = 0; i< 10000; i++){
      for(int j = 0; j< 7; j++){
        System.out.println("Round "+turns);
        List<Point2D.Double> pt = gameState.getPossiblePoints(0);
        int randInd = r.nextInt(pt.size());
        gameState.addPoint(pt.get(randInd), playerId);
        playerId= (playerId+1)%NUMOFPLAYERS;
-       if(i<50) save(0);
+       if(i<500 ) save(0);
        else save(1);
        turns++;
      }     
