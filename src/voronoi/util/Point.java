@@ -45,7 +45,7 @@ public final class Point {
       throw new IllegalArgumentException("The dimensions fo the Matrix must be positive");
     if(n>=Integer.MAX_VALUE/2 || m>=Integer.MAX_VALUE/2)
       throw new IllegalArgumentException("The dimension too big");
-    return new Point(i/m, i%n);
+    return new Point((i/n), (i%n));
   }
   @Override
   public String toString(){

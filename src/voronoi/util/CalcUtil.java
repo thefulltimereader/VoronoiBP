@@ -23,11 +23,13 @@ public final class CalcUtil {
    * http://www.javapractices.com/topic/TopicAction.do?Id=62
    */
   private final static Random fRandom = new Random();
-  {fRandom.setSeed(100);}
 
   public static double randomGaussian(double aMean, double aVariance) {
     double g = fRandom.nextGaussian();
     return aMean + g * aVariance;
+  }
+  public static double randomBetween_1to1(){
+    return 1-2*fRandom.nextDouble();
   }
 
 }

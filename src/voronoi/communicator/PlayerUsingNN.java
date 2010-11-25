@@ -5,7 +5,7 @@ import java.util.List;
 
 import voronoi.gameState.GameState;
 import voronoi.gameState.SimpleGameState;
-import voronoi.network.NN;
+import voronoi.network.NN_old;
 import voronoi.util.Pair;
 import voronoi.util.Point;
 
@@ -18,7 +18,7 @@ public class PlayerUsingNN {
   private final boolean SCALEDOWN = false;
   private final int SCALE = 70;
   private final SimpleGameState gameState;
-  private final NN network; 
+  private final NN_old network; 
   private final String fName = "weights";
   
   public PlayerUsingNN(int turns, int boardSize, int numPlayers, int playerID){
@@ -27,7 +27,7 @@ public class PlayerUsingNN {
     this.turn = turns;
     this.playerID = playerID;
     this.gameState = new SimpleGameState(turns, this.BOARDSIZE, this.NUMOFPLAYERS);
-    this.network = new NN(BOARDSIZE, fName, false, (int)(BOARDSIZE*1.5), 350);
+    this.network = new NN_old(BOARDSIZE, fName, false, (int)(BOARDSIZE*1.5), 350);
   }
 
   public static PlayerUsingNN instanceOfFromServer(String fromServer){
